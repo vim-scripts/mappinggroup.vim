@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=984
+
+This plugin allows you to map function keys to perform different tasks: running a normal command, calling a function, or call a function that will load a new set of mappings.  The plugin supports multilevel key mapping function keys such that after loading a new set of key mappings, it's possible to go back to the previous configuration of function key mappings.
+
+It is useful to help loading different key map configurations, and also good for key mapping not so frequently used functions.
+
